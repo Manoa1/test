@@ -20,4 +20,4 @@ Starting launcher.dll with C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.
 Found SetDllDirectoryW in kernel32.dll!
 Added C:\Program Files (x86)\Minecraft\game to DLL search path
 Running launcher!
-Launcher ended with 0
+Launchere ended with 0
